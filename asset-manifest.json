@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AdminPanel2/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/AdminPanel2/static/js/main.ec4ef686.chunk.js",
+    "main.js.map": "/AdminPanel2/static/js/main.ec4ef686.chunk.js.map",
+    "runtime-main.js": "/AdminPanel2/static/js/runtime-main.78862a0e.js",
+    "runtime-main.js.map": "/AdminPanel2/static/js/runtime-main.78862a0e.js.map",
+    "static/js/2.878b0ae0.chunk.js": "/AdminPanel2/static/js/2.878b0ae0.chunk.js",
+    "static/js/2.878b0ae0.chunk.js.map": "/AdminPanel2/static/js/2.878b0ae0.chunk.js.map",
+    "static/js/3.b5b54826.chunk.js": "/AdminPanel2/static/js/3.b5b54826.chunk.js",
+    "static/js/3.b5b54826.chunk.js.map": "/AdminPanel2/static/js/3.b5b54826.chunk.js.map",
+    "index.html": "/AdminPanel2/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/AdminPanel2/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.878b0ae0.chunk.js.LICENSE.txt": "/AdminPanel2/static/js/2.878b0ae0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78862a0e.js",
+    "static/js/2.878b0ae0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ec4ef686.chunk.js"
+  ]
+}
